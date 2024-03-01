@@ -1,9 +1,9 @@
 html {
   font-family: "Noto Sans JP", sans-serif;
   font-family: "Oswald", sans-serif;
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth;
   width: 100%;
-  margin: 0 auto;
+  margin: 0 auto; */
 }
 
 img {
